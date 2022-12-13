@@ -3,7 +3,7 @@ This project contains an exploration of three business questions related to Unid
 
 # Dependencies
 
-Please refer to the `environment.yml` file to install the required dependencies for this project. 
+Please refer to the `environment.yml` file to install the required dependencies for this project. See [this explanation](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) on how to create a conda environment from a `.yml` file. 
 
 # Acknowledgments
 
