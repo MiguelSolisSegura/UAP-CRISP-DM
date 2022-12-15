@@ -9,7 +9,7 @@ Please refer to the `environment.yml` file to install the required dependencies 
 
 Data used for this experiment comes from the [National UFO Reporting Center](https://nuforc.org/). The original data can be found [here](https://www.kaggle.com/datasets/NUFORC/ufo-sightings).
 
-# Business Understanding
+# (1) Business Understanding
 
 Three main questions are explored:
 
@@ -17,11 +17,11 @@ Three main questions are explored:
 - How does the frequency of reports have evolved over time in the chosen area.
 - Is there any identifiable relationship between the geographic coordinates and time, with reported UAP shapes.
 
-# Data Understanding to Evaluation
+# (2) Data Understanding to (5) Evaluation
 
 Refer to the commentaries and code on the `notebook.ipynb` file for an explanation on these steps.
 
-# Deployment
+# (6) Deployment
 
 A general discussion on this project for non-technical readers can be found [here](https://medium.com/@miguelsolissegura/something-out-of-this-world-for-your-next-vacations-1cb44fb246a6). The main findings can be summarized as: 
 
