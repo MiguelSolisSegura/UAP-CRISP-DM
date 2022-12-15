@@ -1,4 +1,4 @@
-# UAP Sightings
+# UAP CRISP-DM
 This project contains an exploration of three business questions related to Unidentified Aerial Phenomena. For this matter, the CRISP-DM methodology has been employed. Refer to the following sections for an understanding on where is every step of the methodology discussed.
 
 # Dependencies
